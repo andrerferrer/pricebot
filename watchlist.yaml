@@ -1,0 +1,30 @@
+items:
+  - name: "Pichau Home HM674 - 5700G + 32GB + 1TB"
+    store: "Pichau"
+    url: "https://www.pichau.com.br/computador-pichau-home-hm674-amd-ryzen-7-5700g-32gb-ddr4-ssd-m-2-1tb-46032"
+    tags: ["5700G","32GB"]
+    target_cash: 2700
+
+  - name: "KaBuM Infotech Aquário - 5500 + 32GB + RTX 3050"
+    store: "KaBuM"
+    url: "https://www.kabum.com.br/produto/630994/computador-pc-gamer-aquario-preto-infotech-ryzen-5-5500-32gb-ram-nvidia-rtx-3050-6gb-ssd-1tb-windows-11-pro"
+    tags: ["32GB"]
+    target_cash: 5000
+
+  - name: "Terabyte Worthy - 5600GT + 32GB + RTX 4060"
+    store: "Terabyte"
+    url: "https://www.terabyteshop.com.br/produto/29892/pc-gamer-t-gamer-worthy-amd-ryzen-5-5600gt-geforce-rtx-4060-32gb-ddr4-ssd-1tb"
+    tags: ["4060","32GB"]
+    target_cash: 5500
+
+  - name: "Terabyte Shakram - 8700G + 32GB + RTX 3060"
+    store: "Terabyte"
+    url: "https://www.terabyteshop.com.br/produto/28800/pc-gamer-t-gamer-shakram-amd-ryzen-7-8700g-geforce-rtx-3060-32gb-ddr5-ssd-1tb"
+    tags: ["32GB"]
+    target_cash: 7300
+
+  - name: "Dell Precision 3680 (base 32GB)"
+    store: "Dell"
+    url: "https://www.dell.com/pt-br/shop/computadores-all-in-ones-e-workstations/workstation-em-torre-precision-3680/spd/precision-t3680-workstation"
+    tags: ["workstation","32GB"]
+    target_cash: 10000
