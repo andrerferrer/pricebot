@@ -1,4 +1,6 @@
 name: pricebot
+permissions:
+  contents: write
 on:
   push:
   schedule:
