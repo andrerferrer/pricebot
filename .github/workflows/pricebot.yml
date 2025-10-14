@@ -1,5 +1,6 @@
 name: pricebot
 on:
+  push:
   schedule:
     - cron: "30 11 * * *"   # 08:30 America/Sao_Paulo (UTC+0 -> +3)
   workflow_dispatch:
